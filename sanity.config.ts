@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'aneu-admin',
 
-  projectId: 'qzf0ykj4',
+  projectId: 'a8hvvfid',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
